@@ -20,5 +20,5 @@ Updater (Installer only):
 
 * WinGup v4.1
 
-Git is a version control system.
+Git is a diversion version control system.
 Git is free software.
